@@ -1,0 +1,18 @@
+.App {
+  /*background-color: #444444;*/
+  width: 400px;
+  height: 610px;
+  display: flex;
+  /*width: 1280;*/
+  flex-direction: column-reverse;
+  /*height: 100%;*/
+}
+
+.nav-btn {
+  color: whitesmoke !important;
+}
+
+.nav-btn__icon {
+  font-size: 24px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,37 @@
+.dashboard {
+    /*background-color: gold;*/
+    margin: auto;
+}
+
+.chart__container {
+    background-color: white;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.chart__select__container {
+    justify-content: center;
+    width: 50%;
+    margin: 10% auto 2% auto;
+    /*background-color: gold;*/
+}
+
+.number-input {
+    margin: auto;
+    width: 100px !important;
+}
+.number-input__container {
+    margin: 0 auto 2% auto;
+    text-align: center;
+    /*background-color: gold;*/
+}
+.chart__select {
+    width: 100%;
+    margin: auto;
+    color: whitesmoke;
+}
+
+#chart {
+    height: 440px;
+    width: 100%;
+}

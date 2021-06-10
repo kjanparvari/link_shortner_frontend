@@ -1,0 +1,68 @@
+.main-page {
+    margin: 40% auto auto auto;
+    width: 100%;
+    overflow: hidden;
+    /*background-color: gold;*/
+}
+
+.form-container {
+    margin: auto;
+    position: relative;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    /*background-color: gold;*/
+}
+
+
+.my-form {
+    margin: auto auto 0 auto;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    color: white;
+    display: flex;
+    /*background-color: gold;*/
+}
+
+.shorted-link-area {
+    margin: 18% auto auto auto;
+    position: relative;
+    font-size: 24px;
+    display: flex;
+    /*background-color: gold;*/
+    text-align: center;
+}
+.long-link-area {
+    margin: 15% auto auto auto;
+    position: relative;
+    font-size: 24px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /*background-color: blue;*/
+}
+.long-link-area__code {
+    font-size: 48px;
+    width: 80%;
+    outline: none;
+    margin: 3% auto;
+    border: none;
+    overflow-x: auto;
+    /*cursor: pointer;*/
+}
+.shorted-link-area__code {
+    font-size: 48px;
+    width: 60%;
+    outline: none;
+    border: none
+    /*cursor: pointer;*/
+}
+.new-window__container {
+    text-align: center;
+}
+.new-window__btn {
+    font-size: 8px;
+    padding: 10px;
+}
