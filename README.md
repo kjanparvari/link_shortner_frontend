@@ -20,4 +20,4 @@ This repository contains the client-side implementation of the link-shortening a
 This project is part of a full-stack application. The backend repository can be found [here](https://github.com/kjanparvari/link_shortner_backend) 
 
 ## License  
-This project is licensed under the MIT License. 
+This project is licensed under the AUT License. 
